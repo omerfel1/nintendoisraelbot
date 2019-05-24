@@ -7,7 +7,7 @@ from discord.ext import commands
 from discord.ext.commands import Bot
 from discord.utils import get
 prefix = "?"
-TOKEN = 'NTY1NDMxOTIzNDA5NjgyNDUy.XK3BIA.qZr8gJMJ2nKQ3N96_cBy6OeWmZw'
+TOKEN = 'NTQ0OTE1NjQ0MTEwMzQwMTE3.XOfTOw.Y3E28ekhdIgwOXI_9hVltz-0-QY'
 Client = commands.Bot(command_prefix=prefix)
 client = discord.Client()
 players= {}
